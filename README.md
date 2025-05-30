@@ -37,8 +37,7 @@ Collection of Postman test suites for RESTful API testing, including automated t
 Repository of test documentation templates, including test plans, test cases, and defect reporting templates for Jira/Xray integration.
 
 ## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirupamabotcha&show_icons=true&theme=radical)
+![nirupamabotcha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirupamabotcha&theme=vue-dark&hide_border=true)
 
 ## 📫 Contact Me
 
